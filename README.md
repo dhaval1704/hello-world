@@ -2,4 +2,4 @@
 Just another repository 
 
 
-Something to pass the time and learn at the same time
+Something to pass the time and learn something new at the same time
